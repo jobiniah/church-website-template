@@ -1,0 +1,9 @@
+.card {
+    box-shadow: 0 4px 8px black;
+    transition: 0.3s;
+    border-radius: 5px;
+}
+
+/* .card img {
+    width: 100%;
+} */
